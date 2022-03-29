@@ -39,6 +39,8 @@ public class Persona {
         var variableBooleana1 =false;
         
         int x;
+        
+        
         System.out.println(variableTexto);
         System.out.println(variableDecimal);
         System.out.println(variableEntera);

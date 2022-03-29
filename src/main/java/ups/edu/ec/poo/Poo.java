@@ -15,6 +15,10 @@ import ups.edu.ec.poo.unidad01.semana1.Persona;
 public class Poo {
 
     public static void main(String[] args) {
+        
+        
+        
+        
         System.out.println("Hola Mundo");
         int a=50;
         int b=11;
@@ -25,7 +29,9 @@ public class Poo {
         System.out.println(mensaje);
         
         var perrito = new Perro();
-        perrito.nombre="Juan";
+        perrito.nombre="Lassie";
+        
+        System.out.println("El perrito se llama: "+perrito.nombre);
         
         var personita = new Persona();
         System.out.print(personita.toString());

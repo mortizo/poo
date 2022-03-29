@@ -11,12 +11,11 @@ package ups.edu.ec.poo.unidad01.semana1;
 
 
 public class Perro {
-    //Atributos
+   
     public String nombre;
-    String raza;
-    int edad;
-    float peso;
+    public String raza;
+    public int edad;
+    public float peso;
     
 }
-
 
